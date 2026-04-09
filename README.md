@@ -30,33 +30,46 @@
 
 ---
 
-## ⚡ :: SYSTEM INIT // WHO_I_AM
+## ⚡ :: SYSTEM INIT // ARCHITECT PROFILE
 
 <!-- 
-  [SYS-INFO] JSON Block
-  Provides identity, clearance level, and core architecture philosophy. 
-  Every line contains strict operational commenting as per system instructions.
+  [SYS-INFO] Architecture Profile 
+  Replacing raw JSON with an elite cyber-aesthetic HTML grid structure.
+  Provides identity, objectives, and domain masteries dynamically while adhering to comment rules.
 -->
-```json
-{ // Initializes the main configuration object.
-  "identity": { // Maps the identity properties into a nested object.
-    "name": "Abu Bakkar", // Defines the system architect's actual name.
-    "designation": "AI Systems Architect | Robotics Engineer", // Establishes the architect's professional titles.
-    "clearance": "Level-9 // Full-Stack Hardware & Software Integration" // Articulates the technical capability depth.
-  }, // Closes the identity object map.
-  "core_objectives": [ // Opens an array detailing primary engineering targets.
-    "Architecting neural networks for physical-world interaction.", // Details the linkage of AI into physical environments.
-    "Fusing digital logic with kinetic motion to synthesize intelligent robotics.", // Describes the translation of algorithms into mechanical movement.
-    "Engineering resilient, self-governing embedded firmware ecosystems." // Focuses on the creation of high-reliability low-level systems.
-  ], // Ends the core objectives array.
-  "technical_domains": { // Grouping of broad mastery categorizations.
-    "ai_vision": "Computer Vision, Edge AI, Predictive Neural Models", // Lists core artificial intelligence subfields.
-    "robotics": "Kinematics, Autonomous Navigation (SLAM), Multi-Sensor Fusion", // Lists practical robotics integration techniques.
-    "embedded": "Real-Time Operating Systems (RTOS), Microcontroller Architectures" // Details embedded hardware software layers.
-  }, // Closes the technical domains mapping.
-  "system_status": "🟢 ONLINE | DEPLOYING CONCEPTS INTO PRODUCTION" // Provides current operational availability output.
-} // Finalizes the configuration payload.
-```
+<blockquote>
+  <p><b>[ IDENTITY_MATRIX ]</b></p>
+  <ul>
+    <!-- Declares the architect's name -->
+    <li><b>Name:</b> Abu Bakkar</li>
+    <!-- Defines professional title and scope -->
+    <li><b>Designation:</b> AI Systems Architect & Robotics Engineer</li>
+    <!-- Establishes technical capability using code tags for a terminal feel -->
+    <li><b>Clearance:</b> <code>Level-9 // Full-Stack Hardware & Software Integration</code></li>
+    <!-- Visual status pulse using a custom green badge -->
+    <li><b>Status:</b> <img src="https://img.shields.io/badge/🟢_ONLINE-00C853?style=flat-square" alt="Online Badge" /> <i>Deploying concepts into production...</i></li>
+  </ul>
+
+  <p><b>[ CORE_DIRECTIVES ]</b></p>
+  <ul>
+    <!-- Explains physical ML deployment focus -->
+    <li>🧠 <b>Physical Intelligence:</b> Architecting neural networks for tangible physical-world interaction.</li>
+    <!-- Details the merging of code and physical motion -->
+    <li>⚙️ <b>Kinetic Synthesis:</b> Fusing digital logic with mechanical motion to synthesize intelligent robotics.</li>
+    <!-- Explores low-level resilience philosophy -->
+    <li>🛡️ <b>Firmware Hardening:</b> Engineering deeply resilient, self-governing embedded ecosystems.</li>
+  </ul>
+
+  <p><b>[ NEURAL_DOMAINS ]</b></p>
+  <ul>
+    <!-- Highlights perception and cognition fields -->
+    <li>👁️ <b>AI & Vision:</b> Computer Vision, Edge AI, Predictive Neural Models</li>
+    <!-- Spotlights locomotion and positioning technologies -->
+    <li>🦿 <b>Robotics:</b> Kinematics, Autonomous Navigation (SLAM), Multi-Sensor Fusion</li>
+    <!-- Covers the base hardware/compute logic layer -->
+    <li>🔌 <b>Embedded Systems:</b> Real-Time Operating Systems (RTOS), Microcontroller Architectures</li>
+  </ul>
+</blockquote>
 
 ---
 
