@@ -49,36 +49,6 @@
 </div>
 <br>
 
-<!-- 
-  [DIRECTIVES] Native Quotations 
-  Uses GitHub's native blockquote styling for an ultra-sleek, clean readable interface.
--->
-### 🎯 :: P R I M A R Y _ D I R E C T I V E S
-
-> **[01] Physical Vision**
-> Porting massive neural datasets directly into real-world edge execution environments.
-
-> **[02] Kinetic Synthesis**
-> Binding fluid algorithms to hard physics and mechanical dynamics.
-
-> **[03] Root Resilience**
-> Engineering unshakeable, self-governing embedded firmware ecosystems.
-
-<br>
-
-<!-- 
-  [DOMAINS] Native Markdown Tables 
-  Uses standard markdown tables which seamlessly adapt to light/dark themes and mobile devices.
--->
-### 🧠 :: N E U R A L _ D O M A I N S
-
-| 👁️ AI & Vision | 🦿 Advanced Robotics | 🔌 Embedded Systems |
-| :--- | :--- | :--- |
-| **Computer Vision** <br> *Algorithms that see* | **Kinematics & Control** <br> *Precision movement* | **Real-Time OS (RTOS)** <br> *Zero-latency execution* |
-| **Edge AI** <br> *OAK-D / Jetson deployment* | **Autonomous Navigation** <br> *Self-governing routes* | **MCU Architectures** <br> *Silicon-level logic* |
-| **Predictive Models** <br> *Anticipating state changes* | **Multi-Sensor SLAM** <br> *Environmental mapping* | **Hardware Logic** <br> *Firmware resilience* |
-
----
 
 ## 🚀 :: CORE_MODULES // HARDWARE & AI SYSTEMS
 
