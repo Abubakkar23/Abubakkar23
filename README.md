@@ -118,53 +118,54 @@
   Visually categorizes the entire scope of proficiency using color-coded shields.
   Expanded to reflect high-tier AI, embedded, and robotics paradigms.
 -->
-
 <div align="center">
 
 **[ Source Code & Compilers ]**
-`<br>`
-`<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />`
-`<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />`
-`<img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="Embedded C Badge" />`
-`<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Scripting Badge" />`
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
+<img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="Embedded C Badge" />
+<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Scripting Badge" />
 
 **[ Machine Intelligence & Vision Algorithms ]**
-`<br>`
-`<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge" />`
-`<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge" />`
-`<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge" />`
-`<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn Badge" />`
-`<img src="https://img.shields.io/badge/YOLO_Darknet-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO Badge" />`
+<br>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn Badge" />
+<img src="https://img.shields.io/badge/YOLO_Darknet-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO Badge" />
 
 **[ Robotics Frameworks & Kinematics ]**
-`<br>`
-`<img src="https://img.shields.io/badge/ROS_Noetic-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS Badge" />`
-`<img src="https://img.shields.io/badge/ROS_2-000000?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2 Badge" />`
-`<img src="https://img.shields.io/badge/Gazebo_Sim-FF4400?style=for-the-badge&logo=gazebosim&logoColor=white" alt="Gazebo Badge" />`
-`<img src="https://img.shields.io/badge/Ardupilot-00A9E0?style=for-the-badge&logo=drone&logoColor=white" alt="Ardupilot Badge" />`
+<br>
+<img src="https://img.shields.io/badge/ROS_Noetic-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS Badge" />
+<img src="https://img.shields.io/badge/ROS_2-000000?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2 Badge" />
+<img src="https://img.shields.io/badge/Gazebo_Sim-FF4400?style=for-the-badge&logo=gazebosim&logoColor=white" alt="Gazebo Badge" />
+<img src="https://img.shields.io/badge/Ardupilot-00A9E0?style=for-the-badge&logo=drone&logoColor=white" alt="Ardupilot Badge" />
 
 **[ Embedded Kernels & Subsystems ]**
-`<br>`
-`<img src="https://img.shields.io/badge/Arduino_Pro-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Badge" />`
-`<img src="https://img.shields.io/badge/Raspberry_Pi_4-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="RasPi Badge" />`
-`<img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson Badge" />`
-`<img src="https://img.shields.io/badge/ESP32_SoC-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 Badge" />`
-`<img src="https://img.shields.io/badge/STM32_MCU-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32 Badge" />`
+<br>
+<img src="https://img.shields.io/badge/Arduino_Pro-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Badge" />
+<img src="https://img.shields.io/badge/Raspberry_Pi_4-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="RasPi Badge" />
+<img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson Badge" />
+<img src="https://img.shields.io/badge/ESP32_SoC-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 Badge" />
+<img src="https://img.shields.io/badge/STM32_MCU-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32 Badge" />
 
 **[ Telemetry & IoT Protocols ]**
-`<br>`
-`<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT Badge" />`
-`<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets Badge" />`
-`<img src="https://img.shields.io/badge/BLE_Matrix-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="BLE Badge" />`
+<br>
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT Badge" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets Badge" />
+<img src="https://img.shields.io/badge/BLE_Matrix-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="BLE Badge" />
 
 **[ Infrastructure & Architecture ]**
-`<br>`
-`<img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge" />`
-`<img src="https://img.shields.io/badge/Docker_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />`
-`<img src="https://img.shields.io/badge/Git_VCS-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />`
-`<img src="https://img.shields.io/badge/Figma_UI/UX-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />`
+<br>
+<img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge" />
+<img src="https://img.shields.io/badge/Docker_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
+<img src="https://img.shields.io/badge/Git_VCS-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+<img src="https://img.shields.io/badge/Figma_UI/UX-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
 
 </div>
+
+
 
 ---
 
