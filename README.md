@@ -1,118 +1,128 @@
-<h1 align="center">⚡ Abu Bakkar</h1>
-<h3 align="center">AI Systems Builder • Robotics Engineer • Embedded Innovator</h3>
+<h1 align="center">Hi 👋, I'm Abu Bakkar</h1>
+<h3 align="center">⚙️ AI Systems Builder | 🤖 Robotics Engineer | 🚀 Innovator</h3>
 
 <p align="center">
   <a href="https://abubakkar23.github.io/portfolio/">🌐 Portfolio</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Robotics%20%7C%20IoT-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Builder-Real%20World%20Systems-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mindset-Innovation%20Driven-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20%7C%20Robotics%20%7C%20IoT-Builder-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Real%20World%20Systems-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Mindset-Innovation-orange?style=flat-square"/>
 </p>
 
 ---
 
-## 🧠 SYSTEM PROFILE
+## 🧠 About Me
 
-```diff
-+ Engineer specializing in intelligent system design
-+ Strong integration of AI + Embedded + Robotics
-+ Focused on real-world deployment over theoretical builds
-+ Experience in automation, sensing systems, and interaction design
+I design and build **intelligent systems that interact with the real world** — combining AI, embedded systems, and robotics.
 
-
-Languages:
-  - Python
-  - C++
-  - Embedded C
-
-AI & Vision:
-  - OpenCV
-  - Scikit-learn
-  - Computer Vision Systems
-
-Hardware & IoT:
-  - Arduino
-  - Raspberry Pi
-  - Sensor Fusion Systems
-
-Robotics:
-  - ROS
-  - Jetson Nano
-  - Autonomous Navigation Logic
-
-Design:
-  - UI/UX Systems
-  - Figma
-
-
-
-> Human-like interaction system with emotion simulation
-> Voice recognition + touch-based emotional response
-> Sensor fusion for obstacle awareness
-> Raspberry Pi + Arduino architecture
-
-
-
-> Real-time obstacle avoidance
-> Solar-assisted hybrid power architecture
-> Embedded navigation + sensor integration
-> Designed for surveillance & emergency response
-
-
-
-> Interactive robotic system with expression rendering
-> OLED-based emotional display
-> Touch-triggered behavior logic
-> ESP32-based embedded system
-
-
-
-> Automated tracking using AI + IoT
-> Face/sensor-based detection logic
-> Eliminates manual attendance inefficiencies
-
-
-
-> Emotion-aware interaction systems
-> Voice + sensor feedback loops
-> Assistive AI concepts for real-world use
-
-
-
-KSCST Project Finalist — AI Robotics
-College Top Project Award — Jarvis System
-
-
-
-B.E — Computer Science Engineering  
-MBA — Entrepreneurship & Venture Creation (Ongoing)  
-M.Tech — Artificial Intelligence (Ongoing)  
-Diploma — Fire & Safety Engineering
-
-
-
-+ Advanced AI System Development
-+ Robotics + Autonomous Systems
-+ Human-AI Interaction
-+ Scalable Tech Solutions
-
-
-
+- 🤖 Focused on **AI + Robotics + IoT**
+- ⚙️ Strong in **hardware + software integration**
+- 🚀 Building systems that **sense, decide, and respond**
+- 🎯 Currently pursuing **M.Tech in AI + MBA in Entrepreneurship**
 
 ---
 
-### You're done after this:
-- Create repo with your username
-- Paste this into `README.md`
-- Commit
+## ⚡ Tech Stack
+
+**Languages:**  
+Python • C++ • Embedded C  
+
+**AI & Computer Vision:**  
+OpenCV • Scikit-learn • ML Systems  
+
+**Hardware & IoT:**  
+Arduino • Raspberry Pi • Sensor Integration  
+
+**Robotics:**  
+ROS • Jetson Nano • Autonomous Systems  
+
+**Design:**  
+Figma • UI/UX Thinking  
 
 ---
 
-If you want later, I can upgrade this with:
-- 🔥 GitHub stats (clean pro style)
-- 🤖 Animated Jarvis banner
-- 🎥 Project demo sections
+## 🚀 Projects
 
-That will push you into **top-tier GitHub profiles** 🚀
+### 🤖 Jarvis — AI Companion Robot
+- AI-powered interaction with emotion simulation  
+- Voice recognition + touch-based responses  
+- Obstacle detection using sensor fusion  
+- Built with Raspberry Pi + Arduino  
+
+---
+
+### 🚁 Autonomous Drone System
+- Real-time obstacle avoidance  
+- Solar-assisted hybrid power  
+- Embedded navigation system  
+- Designed for surveillance & disaster response  
+
+---
+
+### 🤖 AI Desk Bot
+- Interactive robot with expressive OLED display  
+- Touch-based interaction system  
+- Built using ESP32  
+
+---
+
+### 📡 Smart Attendance System
+- AI + IoT based automation system  
+- Face/sensor-based detection  
+- Reduces manual effort and improves accuracy  
+
+---
+
+### 🧠 Human-Centered AI Systems
+- Emotion-aware AI interaction  
+- Voice + sensor feedback systems  
+- Assistive technology concepts  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 KSCST Project Finalist  
+- 🏅 College Top Project Award — Jarvis Robot  
+
+---
+
+## 💼 Experience
+
+**Operations Head — BeAlert Fire & Safety**  
+- Leading operations and technical execution  
+- Built internal automation systems  
+- Managed teams and client deployments  
+
+**Technical Manager — BeAlert Fire & Safety**  
+- Implemented and maintained systems  
+- Delivered technical solutions and training  
+
+---
+
+## 🎓 Education
+
+- 🎓 B.E — Computer Science Engineering  
+- 🧠 M.Tech — Artificial Intelligence (Ongoing)  
+- 📈 MBA — Entrepreneurship & Venture Creation (Ongoing)  
+- 🔥 Diploma — Fire & Safety Engineering  
+
+---
+
+## 📜 Certifications
+
+CCNA • CEH • A+ • N+ • AutoCAD  
+
+---
+
+## 🌍 Vision
+
+> Building intelligent systems that **interact, adapt, and improve human life**
+
+---
+
+## ⭐ Support
+
+If you like my work, consider giving a ⭐ to my repositories!
