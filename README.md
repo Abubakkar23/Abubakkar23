@@ -50,6 +50,9 @@
 <br>
 
 
+
+---
+
 ## 🚀 :: CORE_MODULES // HARDWARE & AI SYSTEMS
 
 <!-- 
@@ -157,28 +160,47 @@
 
 <!-- 
   [LOG-DUMP] Professional History 
-  Displays structured key accomplishments mimicking system output logs.
+  Displays structured key accomplishments using clean block formatting and robust aesthetics.
 -->
-### 🏅 Engineering Milestones
-- `[ACHIEVEMENT UNLOCKED]` 🥇 **KSCST Project Finalist**: Awarded for cutting-edge engineering execution.
-- `[AWARD RECEIVED]` 🏅 **College Top Project Award**: Officially recognized for the structural intelligence of the *Jarvis Robot*.
+### 🏅 [ ENGINEERING_MILESTONES ]
+> **`[ACHIEVEMENT_UNLOCKED]`** 🥇 **KSCST Project Finalist** 
+> *Recognized at the state level for cutting-edge engineering execution.*
 
-### 💼 Field Deployments // BeAlert Fire & Safety
-- `[ROLE: OPERATIONS HEAD]` — Engineered large-scale technical deployments, mobilized infrastructure execution teams, and deployed robust internal automation arrays.
-- `[ROLE: TECHNICAL MANAGER]` — Oversaw mission-critical system maintenance, driving highly optimized hardware-software solutions.
+> **`[AWARD_RECEIVED]`** 🏅 **College Top Project Award**
+> *Officially recognized for the structural intelligence and ML integration of the Jarvis Robot.*
+
+### 💼 [ FIELD_DEPLOYMENTS ] // BeAlert Fire & Safety
+> **`[ROLE: OPERATIONS HEAD]`** — Engineered large-scale technical deployments, mobilized infrastructure execution teams, and deployed robust internal automation arrays.
+
+> **`[ROLE: TECHNICAL MANAGER]`** — Oversaw mission-critical system maintenance, driving highly optimized hardware-software integration solutions.
 
 ---
 
 ## 🎓 :: KNOWLEDGE_BASE // NEURAL_TRAINING_WEIGHTS
 
-<!-- Educational background presented as neural training phases -->
-- **[ Phase 4 ]** — `EPOCH: Ongoing` | M.Tech — Artificial Intelligence 
-- **[ Phase 3 ]** — `EPOCH: Ongoing` | MBA — Entrepreneurship & Venture Creation
-- **[ Phase 2 ]** — `EPOCH: Completed` | B.E — Computer Science Engineering
-- **[ Phase 1 ]** — `EPOCH: Completed` | Diploma — Fire & Safety Engineering
+<!-- 
+  [TRAINING-PHASES] Education
+  Educational background and certs presented as deep learning epochs.
+  Implements SVG badges for certifications to make them highly visible.
+-->
+### 📊 [ ACTIVE_EPOCHS ]
+> 🎓 **M.Tech — Artificial Intelligence** *(Phase 4 Neural Training)*
+> 💼 **MBA — Entrepreneurship & Venture Creation** *(Phase 3 Market Integration)*
 
-**Verified Security Protocols (Certifications):**  
-`[ CCNA ]`  `[ CEH ]`  `[ CompTIA A+ ]`  `[ CompTIA N+ ]`  `[ AutoCAD ]`
+### 🔒 [ COMPLETED_WEIGHTS ]
+> 🖥️ **B.E. — Computer Science Engineering** *(Phase 2 Base Logic)*
+> 🧯 **Diploma — Fire & Safety Engineering** *(Phase 1 Physical Rules)*
+
+<br>
+
+<div align="center">
+  <b>[ VERIFIED SECURITY & PROTOCOL CERTIFICATIONS ]</b><br><br>
+  <img src="https://img.shields.io/badge/Cisco-CCNA-049fd9?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
+  <img src="https://img.shields.io/badge/EC--Council-CEH-ed2624?style=for-the-badge" alt="CEH" />
+  <img src="https://img.shields.io/badge/CompTIA-A+-ff0000?style=for-the-badge&logo=comptia&logoColor=white" alt="A+" />
+  <img src="https://img.shields.io/badge/CompTIA-Network+-0079ce?style=for-the-badge&logo=comptia&logoColor=white" alt="Network+" />
+  <img src="https://img.shields.io/badge/Autodesk-AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
+</div>
 
 ---
 
@@ -186,23 +208,23 @@
 
 <!-- 
   [TERMINAL-DIFF] Displaying Active Threads.
-  A deeply parsed representation of current engineering focuses using bash diff styles.
+  An advanced terminal read-out representing active engineering focus areas.
 -->
 ```diff
 @@ DAEMON: /opt/core/neural_cortex.sh @@
-+ [INIT] Advancing scalable AI workloads on edge architectures.  # Shrinks ML algorithms for low-power edge micro-devices.
-+ [BUILD] Integrating Vision/LLMs with physical end-effectors.   # Gives robotic hardware real-time autonomous reasoning.
-+ [OPTIMIZE] Engineering ultra-low latency SLAM algorithms.      # Improves spatial mapping for self-navigating robotics.
-+ [DEPLOY] Hardening embedded firmware for real-world stress.    # Prevents physical hardware faults via resilient coding.
-- [KILL] Sunsetting legacy monolithic code & manual deployments. # Destroys development bottlenecks via automation pipelines.
++ [INIT] Executing scalable AI workloads directly on edge micro-architectures.   # Deep learning via minimal silicon.
++ [BUILD] Synergizing Vision models & LLMs with physical end-effectors.          # Allowing robotic hardware to "think".
++ [OPTIMIZE] Engineering sub-millisecond latency SLAM & pathfinding algorithms.  # Perfecting autonomous drone navigation.
++ [DEPLOY] Hardening embedded RTOS firmware against physical-world stress.       # Achieving true hardware fault-tolerance.
+- [KILL] Sunsetting legacy monolithic architectures & manual deployment loops.     # Automating deployment pipelines completely.
 ```
 
 <!-- 
   [TELEMETRY] Git Activity Card
-  Pulls real-time analytics for the user. Set to Tokyo-Night for a hacker aesthetic.
+  Provides real-time commit data in a beautifully dark hacker aesthetic.
 -->
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakkar23&show_icons=true&theme=tokyonight&cache_seconds=86400&hide_border=true&bg_color=0D1117" alt="GitHub Telemetry Data" width="480" />
-  <p><code>> _ "Building the intelligence of tomorrow, today. // EOF"</code></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=abubakkar23&show_icons=true&theme=tokyonight&cache_seconds=86400&hide_border=true&bg_color=0D1117" alt="GitHub Telemetry Data" width="550" />
+  <p><code>> _ "Synthesizing the intelligence of tomorrow, today. // EOF"</code></p>
 </div>
