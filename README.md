@@ -41,11 +41,12 @@
 </div>
 
 <!-- 
-  [IDENTITY_CARD] Clean Central Identity 
-  Provides essential identifiers rapidly without heavy badges that clutter spacing.
+  [IDENTITY_CARD] Futuristic Holographic Print
+  Executes a typewriter animation using an ultra-futuristic sci-fi font 
+  to maximize the cyberpunk / advanced tech aesthetic.
 -->
 <div align="center">
-  <b>NAME:</b> <code>Abu Bakkar</code> &nbsp;&nbsp;|&nbsp;&nbsp; <b>CLEARANCE:</b> <code>Level-9</code> &nbsp;&nbsp;|&nbsp;&nbsp; <b>PULSE:</b> 🟢 <code>ONLINE</code>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&pause=2500&color=00FF41&center=true&vCenter=true&width=600&lines=ABU+BAKKAR" alt="Futuristic Typewriter Print" />
 </div>
 <br>
 
@@ -160,19 +161,26 @@
 
 <!-- 
   [LOG-DUMP] Professional History 
-  Displays structured key accomplishments using clean block formatting and robust aesthetics.
+  Displays structured key accomplishments using sleek keyboard tags 
+  and deep hierarchy mapping for a true system-execution environment look.
 -->
 ### 🏅 [ ENGINEERING_MILESTONES ]
-> **`[ACHIEVEMENT_UNLOCKED]`** 🥇 **KSCST Project Finalist** 
-> *Recognized at the state level for cutting-edge engineering execution.*
 
-> **`[AWARD_RECEIVED]`** 🏅 **College Top Project Award**
-> *Officially recognized for the structural intelligence and ML integration of the Jarvis Robot.*
+> <kbd>SYSTEM_AWARD</kbd> 🥇 **KSCST Project Finalist** 
+> ╰─ *Officially recognized at the state level for cutting-edge engineering execution.*
+
+> <kbd>CROWN_REWARD</kbd> 🏅 **College Top Project Award**
+> ╰─ *Awarded for the embedded structural intelligence and ML integration of the Jarvis Robot.*
+
+<br>
 
 ### 💼 [ FIELD_DEPLOYMENTS ] // BeAlert Fire & Safety
-> **`[ROLE: OPERATIONS HEAD]`** — Engineered large-scale technical deployments, mobilized infrastructure execution teams, and deployed robust internal automation arrays.
 
-> **`[ROLE: TECHNICAL MANAGER]`** — Oversaw mission-critical system maintenance, driving highly optimized hardware-software integration solutions.
+> <kbd>OP_EXEC: 01</kbd> **[ROLE: OPERATIONS HEAD]** 
+> ╰─ Engineered large-scale technical deployments, mobilized infrastructure execution teams, and constructed robust internal automation arrays.
+
+> <kbd>OP_EXEC: 02</kbd> **[ROLE: TECHNICAL MANAGER]**
+> ╰─ Governed mission-critical system maintenance, driving and maintaining deeply optimized hardware-software integration pipelines.
 
 ---
 
@@ -180,16 +188,22 @@
 
 <!-- 
   [TRAINING-PHASES] Education
-  Educational background and certs presented as deep learning epochs.
-  Implements SVG badges for certifications to make them highly visible.
+  Educational background presented via strict terminal-style filesystem 
+  directory branching, mapping his degrees like computing hierarchies.
 -->
-### 📊 [ ACTIVE_EPOCHS ]
-> 🎓 **M.Tech — Artificial Intelligence** *(Phase 4 Neural Training)*
-> 💼 **MBA — Entrepreneurship & Venture Creation** *(Phase 3 Market Integration)*
+### 📊 [ ACTIVE_EPOCHS_COMPILING ]
+> ├── 🎓 **M.Tech — Artificial Intelligence** <br>
+> │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╰─ *(Phase 4 // Neural Training Matrix)*<br>
+> └── 💼 **MBA — Entrepreneurship & Venture Creation** <br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╰─ *(Phase 3 // Market & Product Integration)*
 
-### 🔒 [ COMPLETED_WEIGHTS ]
-> 🖥️ **B.E. — Computer Science Engineering** *(Phase 2 Base Logic)*
-> 🧯 **Diploma — Fire & Safety Engineering** *(Phase 1 Physical Rules)*
+<br>
+
+### 🔒 [ COMPLETED_BASE_WEIGHTS ]
+> ├── 🖥️ **B.E. — Computer Science Engineering** <br>
+> │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╰─ *(Phase 2 // Core Computing Logic)*<br>
+> └── 🧯 **Diploma — Fire & Safety Engineering** <br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╰─ *(Phase 1 // Physical World Infrastructure)*
 
 <br>
 
